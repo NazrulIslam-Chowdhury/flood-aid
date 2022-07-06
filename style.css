@@ -17,8 +17,8 @@ div h1 {
     font-size: 50px;
 }
 
-.donate-button {
-    background-image: linear-gradient(red, orange);
+#donate-button {
+    background-image: linear-gradient(rgba(255, 0, 0, 0.51), rgba(255, 166, 0, 0.4));
     border-radius: 20px;
     font-weight: 700;
     padding: 10px 30px;
@@ -115,4 +115,25 @@ main h1 {
 
 .plan {
     display: flex;
+}
+
+#part4 {
+    display: flex;
+    width: 85%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.depends {
+    margin-right: 5%;
+}
+
+#part5 {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.need-us {
+    margin-left: 5%;
 }
