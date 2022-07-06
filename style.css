@@ -1,0 +1,87 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.header {
+    text-align: center;
+    color: whitesmoke;
+    padding: 10%;
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+div h1 {
+    font-size: 50px;
+}
+
+.donate-button {
+    background-image: linear-gradient(red, orange);
+    border-radius: 20px;
+    font-weight: 700;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    text-align: center;
+    padding: 10%;
+    margin-top: -50px;
+    color: rgb(77, 73, 73);
+
+}
+
+main h1 {
+    font-weight: 700;
+}
+
+#h1 {
+    background-color: whitesmoke;
+    padding: 15%;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin: 45%;
+}
+
+#h2 {
+    background-color: antiquewhite;
+    padding: 15%;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin: 45%;
+    border: 2px solid orange;
+}
+
+#h5 {
+    background-color: whitesmoke;
+    padding: 15%;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin: 45%;
+}
+
+#h10 {
+    background-color: whitesmoke;
+    padding: 15%;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin: 45%;
+
+}
+
+#h50 {
+    background-color: whitesmoke;
+    padding: 15%;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin: 45%;
+
+}
+
+.taka {
+    display: flex;
+    margin-right: 88%;
+    color: rgb(77, 73, 73);
+}
+
+.tk-amount {
+    text-align: center;
+}
